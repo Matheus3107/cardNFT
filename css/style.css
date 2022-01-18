@@ -1,0 +1,80 @@
+body{
+    background: #0C1E31 ;
+    font-family: 'Outfit', sans-serif;
+    padding-top: 60px;
+}
+
+.caixa{
+    width: 250px;
+    height: 420px;
+    border-radius: 15px;
+    background: #14243C ;
+	margin:auto;
+    padding: 1em 0;
+    box-shadow: 0 0 2em #0b1525;
+}
+
+.imgPrincipal{
+	width: 85%; 
+	margin: 0 19px 25px ;
+    border-radius: 15px;
+}
+
+.conteudo{
+    text-align: center;
+    padding: 10px;
+}
+
+.conteudo p {
+    color: #ffffff;
+}
+
+.sub p{
+    font-weight: 100;
+    text-align: left;
+    font-size: 12px;
+}
+
+.etherium{ 
+    color: #00FFF8;
+    float:left;
+    font-size: 12px;
+}
+
+.clock{
+    text-align: right;
+    color: #8BACD9;
+    float:inline-end;
+    font-size: 12px;
+    padding: 3px;
+}
+
+.row{
+    font-size: 0;
+    width: 50%;
+    padding-top: 20px;
+}
+
+h2{
+    color: #ffffff;
+    text-align: left;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.minhaimg{
+    width: 35px;
+    border-radius: 50%;
+    float: left;  
+}
+
+.rodape{
+    text-align: center;
+    color:#8BACD9;
+    font-size: 12px;
+    padding: 10px;
+}
+
+a{
+    color: #ffffff;
+}
